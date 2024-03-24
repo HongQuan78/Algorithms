@@ -1,0 +1,14 @@
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\bin\Debug\net8.0\FindDuplicate.exe
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\bin\Debug\net8.0\FindDuplicate.deps.json
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\bin\Debug\net8.0\FindDuplicate.runtimeconfig.json
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\bin\Debug\net8.0\FindDuplicate.dll
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\bin\Debug\net8.0\FindDuplicate.pdb
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\obj\Debug\net8.0\FindDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\obj\Debug\net8.0\FindDuplicate.AssemblyInfoInputs.cache
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\obj\Debug\net8.0\FindDuplicate.AssemblyInfo.cs
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\obj\Debug\net8.0\FindDuplicate.csproj.CoreCompileInputs.cache
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\obj\Debug\net8.0\FindDuplicate.dll
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\obj\Debug\net8.0\refint\FindDuplicate.dll
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\obj\Debug\net8.0\FindDuplicate.pdb
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\obj\Debug\net8.0\FindDuplicate.genruntimeconfig.cache
+E:\petproject\leetcode moi ngay\FindDuplicate\FindDuplicate\obj\Debug\net8.0\ref\FindDuplicate.dll

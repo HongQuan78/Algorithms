@@ -1,0 +1,14 @@
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\bin\Debug\net8.0\Selection Sort.exe
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\bin\Debug\net8.0\Selection Sort.deps.json
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\bin\Debug\net8.0\Selection Sort.runtimeconfig.json
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\bin\Debug\net8.0\Selection Sort.dll
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\bin\Debug\net8.0\Selection Sort.pdb
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\obj\Debug\net8.0\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\obj\Debug\net8.0\Selection Sort.AssemblyInfoInputs.cache
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\obj\Debug\net8.0\Selection Sort.AssemblyInfo.cs
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\obj\Debug\net8.0\Selection Sort.csproj.CoreCompileInputs.cache
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\obj\Debug\net8.0\Selection Sort.dll
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\obj\Debug\net8.0\refint\Selection Sort.dll
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\obj\Debug\net8.0\Selection Sort.pdb
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\obj\Debug\net8.0\Selection Sort.genruntimeconfig.cache
+E:\petproject\leetcode moi ngay\Selection Sort\Selection Sort\obj\Debug\net8.0\ref\Selection Sort.dll

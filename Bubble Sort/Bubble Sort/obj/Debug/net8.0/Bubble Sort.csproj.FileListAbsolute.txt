@@ -1,0 +1,15 @@
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\bin\Debug\net8.0\Bubble Sort.exe
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\bin\Debug\net8.0\Bubble Sort.deps.json
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\bin\Debug\net8.0\Bubble Sort.runtimeconfig.json
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\bin\Debug\net8.0\Bubble Sort.dll
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\bin\Debug\net8.0\Bubble Sort.pdb
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\obj\Debug\net8.0\Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\obj\Debug\net8.0\Bubble Sort.AssemblyInfoInputs.cache
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\obj\Debug\net8.0\Bubble Sort.AssemblyInfo.cs
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\obj\Debug\net8.0\Bubble Sort.csproj.CoreCompileInputs.cache
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\obj\Debug\net8.0\Bubble Sort.sourcelink.json
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\obj\Debug\net8.0\Bubble Sort.dll
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\obj\Debug\net8.0\refint\Bubble Sort.dll
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\obj\Debug\net8.0\Bubble Sort.pdb
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\obj\Debug\net8.0\Bubble Sort.genruntimeconfig.cache
+E:\petproject\leetcode moi ngay\Bubble Sort\Bubble Sort\obj\Debug\net8.0\ref\Bubble Sort.dll

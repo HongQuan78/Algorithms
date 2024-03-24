@@ -1,0 +1,14 @@
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\bin\Debug\net8.0\RansomNote.exe
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\bin\Debug\net8.0\RansomNote.deps.json
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\bin\Debug\net8.0\RansomNote.runtimeconfig.json
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\bin\Debug\net8.0\RansomNote.dll
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\bin\Debug\net8.0\RansomNote.pdb
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\obj\Debug\net8.0\RansomNote.GeneratedMSBuildEditorConfig.editorconfig
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\obj\Debug\net8.0\RansomNote.AssemblyInfoInputs.cache
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\obj\Debug\net8.0\RansomNote.AssemblyInfo.cs
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\obj\Debug\net8.0\RansomNote.csproj.CoreCompileInputs.cache
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\obj\Debug\net8.0\RansomNote.dll
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\obj\Debug\net8.0\refint\RansomNote.dll
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\obj\Debug\net8.0\RansomNote.pdb
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\obj\Debug\net8.0\RansomNote.genruntimeconfig.cache
+E:\petproject\leetcode moi ngay\RansomNote\RansomNote\obj\Debug\net8.0\ref\RansomNote.dll

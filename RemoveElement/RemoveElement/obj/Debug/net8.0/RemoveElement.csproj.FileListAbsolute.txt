@@ -1,0 +1,14 @@
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\bin\Debug\net8.0\RemoveElement.exe
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\bin\Debug\net8.0\RemoveElement.deps.json
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\bin\Debug\net8.0\RemoveElement.runtimeconfig.json
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\bin\Debug\net8.0\RemoveElement.dll
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\bin\Debug\net8.0\RemoveElement.pdb
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\obj\Debug\net8.0\RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\obj\Debug\net8.0\RemoveElement.AssemblyInfoInputs.cache
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\obj\Debug\net8.0\RemoveElement.AssemblyInfo.cs
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\obj\Debug\net8.0\RemoveElement.csproj.CoreCompileInputs.cache
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\obj\Debug\net8.0\RemoveElement.dll
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\obj\Debug\net8.0\refint\RemoveElement.dll
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\obj\Debug\net8.0\RemoveElement.pdb
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\obj\Debug\net8.0\RemoveElement.genruntimeconfig.cache
+E:\petproject\leetcode moi ngay\RemoveElement\RemoveElement\obj\Debug\net8.0\ref\RemoveElement.dll

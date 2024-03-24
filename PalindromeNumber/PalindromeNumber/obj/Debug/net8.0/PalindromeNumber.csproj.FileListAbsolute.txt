@@ -1,0 +1,14 @@
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.exe
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.deps.json
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.runtimeconfig.json
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.dll
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.pdb
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.AssemblyInfoInputs.cache
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.AssemblyInfo.cs
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.dll
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\refint\PalindromeNumber.dll
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.pdb
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.genruntimeconfig.cache
+E:\petproject\leetcode moi ngay\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\ref\PalindromeNumber.dll

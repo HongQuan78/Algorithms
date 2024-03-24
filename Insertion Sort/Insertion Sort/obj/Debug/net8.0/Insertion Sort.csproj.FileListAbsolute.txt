@@ -1,0 +1,14 @@
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\bin\Debug\net8.0\Insertion Sort.exe
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\bin\Debug\net8.0\Insertion Sort.deps.json
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\bin\Debug\net8.0\Insertion Sort.runtimeconfig.json
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\bin\Debug\net8.0\Insertion Sort.dll
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\bin\Debug\net8.0\Insertion Sort.pdb
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\obj\Debug\net8.0\Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\obj\Debug\net8.0\Insertion Sort.AssemblyInfoInputs.cache
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\obj\Debug\net8.0\Insertion Sort.AssemblyInfo.cs
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\obj\Debug\net8.0\Insertion Sort.csproj.CoreCompileInputs.cache
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\obj\Debug\net8.0\Insertion Sort.dll
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\obj\Debug\net8.0\refint\Insertion Sort.dll
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\obj\Debug\net8.0\Insertion Sort.pdb
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\obj\Debug\net8.0\Insertion Sort.genruntimeconfig.cache
+E:\petproject\leetcode moi ngay\Insertion Sort\Insertion Sort\obj\Debug\net8.0\ref\Insertion Sort.dll

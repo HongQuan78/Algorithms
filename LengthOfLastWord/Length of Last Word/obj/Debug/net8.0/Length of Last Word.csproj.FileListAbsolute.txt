@@ -1,0 +1,15 @@
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\bin\Debug\net8.0\Length of Last Word.exe
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\bin\Debug\net8.0\Length of Last Word.deps.json
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\bin\Debug\net8.0\Length of Last Word.runtimeconfig.json
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\bin\Debug\net8.0\Length of Last Word.dll
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\bin\Debug\net8.0\Length of Last Word.pdb
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\obj\Debug\net8.0\Length of Last Word.GeneratedMSBuildEditorConfig.editorconfig
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\obj\Debug\net8.0\Length of Last Word.AssemblyInfoInputs.cache
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\obj\Debug\net8.0\Length of Last Word.AssemblyInfo.cs
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\obj\Debug\net8.0\Length of Last Word.csproj.CoreCompileInputs.cache
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\obj\Debug\net8.0\Length of Last Word.dll
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\obj\Debug\net8.0\refint\Length of Last Word.dll
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\obj\Debug\net8.0\Length of Last Word.pdb
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\obj\Debug\net8.0\Length of Last Word.genruntimeconfig.cache
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\obj\Debug\net8.0\ref\Length of Last Word.dll
+E:\petproject\leetcode moi ngay\LengthOfLastWord\Length of Last Word\obj\Debug\net8.0\Length of Last Word.sourcelink.json

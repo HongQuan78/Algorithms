@@ -1,0 +1,15 @@
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.exe
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.deps.json
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.runtimeconfig.json
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.dll
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.pdb
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.AssemblyInfoInputs.cache
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.AssemblyInfo.cs
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.csproj.CoreCompileInputs.cache
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.dll
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\obj\Debug\net8.0\refint\RomanToInteger.dll
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.pdb
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.genruntimeconfig.cache
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\obj\Debug\net8.0\ref\RomanToInteger.dll
+E:\petproject\leetcode moi ngay\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.sourcelink.json
